@@ -1,6 +1,8 @@
-# BBQuotes 🎬📱
+# BB Quotes 🎬📱
 
-BBQuotes is an iOS app that brings the world of **Breaking Bad**, **Better Call Saul**, and **El Camino** to your fingertips! Dive into character details, iconic quotes, and stunning visuals from these legendary series.
+BB Quotes is an iOS app that brings the world of **Breaking Bad**, **Better Call Saul**, and **El Camino** to your fingertips! Dive into character details, iconic quotes, and stunning visuals from these legendary series.
+
+![bb-quotes](https://github.com/user-attachments/assets/84c57157-851d-4757-b3b4-f0aa6048483c)
 
 ## Features ✨
 
@@ -14,25 +16,34 @@ BBQuotes is an iOS app that brings the world of **Breaking Bad**, **Better Call 
 
 ### Character Quotes
 > Breaking Bad
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9783f807-db79-4465-a1f3-a6776d1ec715">
 
 > Better Call Saul
+<img width="300" alt="image" src="">
 
 > El Camino
+<img width="300" alt="image" src="">
 
 ### Character Info
 > Breaking Bad
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/21ad44bd-c0a5-47e7-8a74-9ddf6cec6e61">
 
 > Better Call Saul
+<img width="300" alt="image" src="">
 
 > El Camino
+<img width="300" alt="image" src="">
 
 ### Random Episode
 
 > Breaking Bad
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a8ff86c7-8788-4df4-b9eb-57db1bd82160">
 
 > Better Call Saul
+<img width="300" alt="image" src="">
 
 > El Camino
+<img width="300" alt="image" src="">
 
 ## Tech Stack 🛠️
 
