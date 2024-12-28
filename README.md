@@ -22,7 +22,7 @@ BB Quotes is an iOS app that brings the world of **Breaking Bad**, **Better Call
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/1c373d6a-71cb-410e-9bca-5e30e94a30a3">
 
 > El Camino
-<img width="300" alt="image" src="">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/69a67a84-e098-45ca-acd2-6d7731f36dd1">
 
 ### Character Info
 > Breaking Bad
@@ -32,7 +32,7 @@ BB Quotes is an iOS app that brings the world of **Breaking Bad**, **Better Call
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/ab424a39-d9df-4ebc-872b-a8d70e4406ff">
 
 > El Camino
-<img width="300" alt="image" src="">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/be39dd7e-d210-41c7-acbb-19f3fa3d3302">
 
 ### Random Episode
 
@@ -43,7 +43,7 @@ BB Quotes is an iOS app that brings the world of **Breaking Bad**, **Better Call
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e57dcb1b-5f55-4bda-9bca-dccaca5d7116">
 
 > El Camino
-<img width="300" alt="image" src="">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a433eafb-58f4-42b8-a8c6-c6fd08485c46">
 
 ## Tech Stack 🛠️
 
