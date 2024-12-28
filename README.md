@@ -19,7 +19,7 @@ BB Quotes is an iOS app that brings the world of **Breaking Bad**, **Better Call
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/9783f807-db79-4465-a1f3-a6776d1ec715">
 
 > Better Call Saul
-<img width="300" alt="image" src="">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1c373d6a-71cb-410e-9bca-5e30e94a30a3">
 
 > El Camino
 <img width="300" alt="image" src="">
@@ -29,7 +29,7 @@ BB Quotes is an iOS app that brings the world of **Breaking Bad**, **Better Call
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/21ad44bd-c0a5-47e7-8a74-9ddf6cec6e61">
 
 > Better Call Saul
-<img width="300" alt="image" src="">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ab424a39-d9df-4ebc-872b-a8d70e4406ff">
 
 > El Camino
 <img width="300" alt="image" src="">
@@ -40,7 +40,7 @@ BB Quotes is an iOS app that brings the world of **Breaking Bad**, **Better Call
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/a8ff86c7-8788-4df4-b9eb-57db1bd82160">
 
 > Better Call Saul
-<img width="300" alt="image" src="">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e57dcb1b-5f55-4bda-9bca-dccaca5d7116">
 
 > El Camino
 <img width="300" alt="image" src="">
